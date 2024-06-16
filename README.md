@@ -10,7 +10,7 @@ If you don't have free cells and the ability to move - you will lose.
 All helper functions have been moved to the appropriate folder.
 
 ## DEMO LINK:
-https://soi4an.github.io/sandbox-Two-in-a-square/
+https://soi4an.github.io/sandbox-game/
 
 ## Should works similarly:
 https://play2048.co/
