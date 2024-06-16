@@ -34,9 +34,9 @@ export function handleTouchMove(event) {
     }
   } else {
     if (yDiff > 0) {
-      moveUp();
-    } else {
       moveDown();
+    } else {
+      moveUp();
     }
   }
 
